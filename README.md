@@ -21,7 +21,7 @@
 ## 🔗 Figma Prototype
 
 👉 View the interactive prototype here:  
-https://www.figma.com/your-prototype-link
+[https://www.figma.com/your-prototype-link](https://www.figma.com/design/eyGiFAee2b4JRTgQlb2SGR/Smart-Farming-App.)
 
 
 ```
