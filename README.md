@@ -233,6 +233,15 @@ All UX research, wireframes, and high-fidelity UI designs for this project were 
 
 ---
 
+##👤 Author
+Rushikesh Sable
+
+B.Tech Student 
+
+rushikeshsable9850@gmail.com
+
+---
+
 ## 📜 Disclaimer
 
 This project is an **academic UX case study** created for the subject  
