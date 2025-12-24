@@ -16,18 +16,7 @@
        width="850"/>
 </p>
 
-<h1 align="center">🌱 AGRISENSE – UX Case Study</h1>
 
-<p align="center">
-  <b>Smart Agriculture IoT Application</b><br>
-  UX Design Case Study • Designed in Figma
-</p>
-
-<p align="center">
-  📘 Academic Project – MDM: Introduction to UI/UX
-</p>
-
-<hr>
 
 
   This is a code bundle for Smart Farming App. The original project is available at https://www.figma.com/design/eyGiFAee2b4JRTgQlb2SGR/Smart-Farming-App.
