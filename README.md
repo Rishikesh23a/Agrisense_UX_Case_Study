@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="assets/smart-farming.png" alt="Agrisense Smart Farming UX Case Study" width="800"/>
+</p>
+
+<h1 align="center">🌱 AGRISENSE – UX Case Study</h1>
+
+<p align="center">
+  <b>Smart Agriculture IoT Application</b><br>
+  UX Design Case Study | Designed in Figma
+</p>
+
+<hr>
 
   # Smart Farming App
 
