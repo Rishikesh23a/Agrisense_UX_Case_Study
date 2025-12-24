@@ -30,6 +30,22 @@ Run `npm i` to install the dependencies.
 Run `npm run dev` to start the development server.
 ```
 
+---
+
+## 📑 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Objectives](#project-objectives)
+- [Stakeholders](#stakeholder-mapping)
+- [UX Research](#ux-research--user-insights)
+- [Personas](#user-personas)
+- [Design Process](#design-process)
+- [Prototypes](#prototypes-designed-in-figma)
+- [Impact & Outcomes](#ux-impact--outcomes)
+- [Future Enhancements](#future-enhancements)
+
+---
+
 ## 📌 Project Overview
 
 **AGRISENSE APP** is a UX case study focused on designing a **Smart Agriculture IoT mobile application** that helps farmers monitor field conditions, automate irrigation, and make data-driven decisions using AI-powered insights.
