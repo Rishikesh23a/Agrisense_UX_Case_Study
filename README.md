@@ -22,8 +22,9 @@
   This is a code bundle for Smart Farming App. The original project is available at https://www.figma.com/design/eyGiFAee2b4JRTgQlb2SGR/Smart-Farming-App.
 </p>
 
-```
 <h1 Running the code</h1>
+```
+
 
   Run `npm i` to install the dependencies.
 
