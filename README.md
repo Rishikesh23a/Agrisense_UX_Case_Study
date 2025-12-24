@@ -233,7 +233,7 @@ All UX research, wireframes, and high-fidelity UI designs for this project were 
 
 ---
 
-##👤 Author
+## 👤 Author
 Rushikesh Sable
 
 B.Tech Student 
