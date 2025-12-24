@@ -1,5 +1,16 @@
 <h1 align="center">🌱 AGRISENSE – UX Case Study</h1>
 <p align="center">
+  <b>Smart Agriculture IoT Application</b><br>
+  UX Design Case Study • Designed in Figma
+</p>
+
+<p align="center">
+  📘 Academic Project – MDM: Introduction to UI/UX
+</p>
+
+<hr>
+
+<p align="center">
   <img src="Screenshots/IoT-in-Agriculture-scaled.jpg"
        alt="Agrisense Smart Farming UX Case Study"
        width="850"/>
