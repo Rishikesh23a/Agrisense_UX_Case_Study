@@ -11,9 +11,7 @@
 <hr>
 
 <p align="center">
-  <img src="Screenshots/IoT-in-Agriculture-scaled.jpg"
-       alt="Agrisense Smart Farming UX Case Study"
-       width="850"/>
+  <img src="Screenshots/Screenshot 2026-01-31 012039.png"/>
 </p>
 
 
